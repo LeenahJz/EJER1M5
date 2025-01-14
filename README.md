@@ -16,8 +16,8 @@ en terminal:
 Estructura
 
 ej1m5
-├── node_Modules
-├── public
+_ node_Modules
+  _public
 │   └── vite.svg
 ├── src
 │   ├── assets
